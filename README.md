@@ -25,6 +25,7 @@ Matricula: 202058645
 - **Número de clases (personas con ≥15 imágenes):** 96
 
 *No se incluye el dataset completo por tamaño. Puedes descargarlo desde el sitio oficial o Kaggle, el link esta en el ipynb*
+*Pero subi una muestra que esta en formato de carpeta zip, solo como muestra*
 
 ---
 
